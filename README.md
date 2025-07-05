@@ -6,12 +6,16 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Microservices-6f42c1?style=for-the-badge&logoColor=white" alt="Microservices" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kappil-garg_visitor_badge_simple&left_color=dodgerblue&right_color=orchid" alt="Visitor Badge" />
 </p>
 
 ---
 
-<h2 align="center">👋 Introduction</h2>
+<h2 align="center">👋 About Me</h2>
 
 🏡 Based in Noida, Uttar Pradesh  
 💼 Technical Lead at Wipro Limited  
@@ -20,9 +24,9 @@
 
 ---
 
-<h2 align="center">🚀️ Tech Stack</h2>
+<h2 align="center">🚀️ Tech Stack Overview</h2>
 
-### 🌐 Programming Languages
+### 💻 Programming Languages
 <p>
     <img alt="Java" width="30px" src="icons/icon-java.svg" />
     &nbsp;
@@ -30,25 +34,25 @@
     &nbsp;
     <img alt="TypeScript" width="30px" src="icons/icon-typescript.svg" />
     &nbsp;
+    <img alt="HTML5" width="30px" src="icons/icon-html5.svg" />
+    &nbsp;
+    <img alt="CSS3" width="30px" src="icons/icon-css3.svg" />
+    &nbsp;
     <img alt="SQL" width="30px" src="icons/icon-sql.svg" />
     &nbsp;
     <img alt="Python" width="30px" src="icons/icon-python.svg" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🧱 Frameworks & Libraries
 <p>
     <img alt="Spring" width="30px" src="icons/icon-spring.svg" />
     &nbsp;
     <img alt="Angular" width="30px" src="icons/icon-angular.svg" />
     &nbsp;
     <img alt="NodeJS" width="30px" src="icons/icon-node-js.svg" />
-    &nbsp;
-    <img alt="HTML5" width="30px" src="icons/icon-html5.svg" />
-    &nbsp;
-    <img alt="CSS3" width="30px" src="icons/icon-css3.svg" />
 </p>
 
-### 🧰 Tools, Platforms & Services
+### 🛠 Tools, Platforms & Services
 <p>
     <img alt="IntelliJ" width="30px" src="icons/icon-intellij.svg" />
     &nbsp;
@@ -66,6 +70,8 @@
     &nbsp;
     <img alt="Kubernetes" width="30px" src="icons/icon-kubernetes.svg" />
     &nbsp;
+    <img alt="JFrog" width="30px" src="icons/icon-jfrog.svg" />
+    &nbsp;
     <img alt="Maven" width="30px" src="icons/icon-maven.svg" />
     &nbsp;
     <img alt="Gradle" width="30px" src="icons/icon-gradle.svg" />
@@ -81,15 +87,13 @@
     <img alt="Tomcat" width="30px" src="icons/icon-tomcat.svg" />
     &nbsp;
     <img alt="Snyk" width="30px" src="icons/icon-snyk.svg" />
-    &nbsp;
-    <img alt="SonarQube" width="30px" src="icons/icon-sonarqube.svg" />
 </p>
 
 ---
 
 <h2 align="center">📝 Currently Exploring</h2>
 
-I'm currently in the process of **organizing and writing down my Java knowledge**, topic by topic, through **articles, code samples, and a dedicated GitHub repository**.
+I'm currently **organizing and documenting my Java knowledge**, topic by topic, through **articles, code samples, and a dedicated GitHub repository**.
 
 While this effort is focused on Java for now, I plan to expand it to include other technologies I’ve worked with over the years.
 
