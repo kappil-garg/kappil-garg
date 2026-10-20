@@ -17,10 +17,10 @@
 
 <h2 align="center">👋 About Me</h2>
 
-🏡 Based in Noida, Uttar Pradesh  
-💼 Technical Lead at Wipro Limited  
-💡 Experienced in designing scalable systems using Java, Spring Boot, and Angular  
-📦 Keen on building cloud-native microservices with a strong focus on DevOps and clean architecture
+🏡 Based in Pune, Maharashtra  
+💼 Solution Architect at Western Union  
+🏗️ Solution Architect with hands-on experience building enterprise applications using Java, Spring Boot, microservices, and Angular  
+⚙️ Focused on scalable system design, event-driven architectures, cloud-native engineering, and reliable software delivery  
 
 ---
 
@@ -93,21 +93,23 @@
 
 <h2 align="center">📝 Currently Exploring</h2>
 
-I'm currently **organizing and documenting my Java knowledge**, topic by topic, through **articles, code samples, and a dedicated GitHub repository**.
+I'm exploring how AI capabilities can be integrated into Java applications, focusing on **Spring AI, Retrieval-Augmented Generation (RAG), and agentic AI workflows**.
 
-While this effort is focused on Java for now, I plan to expand it to include other technologies I’ve worked with over the years.
+I'm interested in practical AI integrations, including connecting LLMs with Java services, building context-aware applications, and leveraging **Claude Skills** to enhance developer workflows.
 
-The goal is to **strengthen my fundamentals**, document insights from real-world experience, and **share what I’ve learned** to support others in their development journey, whether they are just beginning or looking to refine their existing skills.
+Alongside this, I continue to strengthen my software engineering fundamentals and document useful technical insights through code examples, articles, and personal projects.
 
 ---
 
 <h2 align="center">💼 Career Journey</h2>
 
-I’m a Java Full Stack Developer with experience across the **finance, insurance, and healthcare domains**, currently working as a **Technical Lead at Wipro**. Prior to this, I contributed to enterprise-level projects at **Capgemini** and **Cognizant**, building scalable backend systems and intuitive frontends.
+I'm a **Solution Architect and hands-on Java engineer** with around 9 years of experience building and evolving enterprise applications across the **finance, healthcare, and insurance domains**. My experience spans backend engineering, full-stack development, solution design, and technical leadership.
 
-My core strength lies in backend development using **Java and Spring Boot**, complemented by frontend work with **Angular**. I also have hands-on experience with **legacy enterprise technologies like JSF and PrimeFaces**, having maintained and modernized applications built on these stacks.
+I currently work at Western Union, leading technical design and delivery across enterprise fraud and compliance applications. My core technology stack includes **Java, Spring Boot, microservices, Kafka, REST APIs, Angular, and Kubernetes**.
 
-I enjoy designing clean architectures, optimizing application performance, and mentoring fellow developers. I’m passionate about writing clean code, applying solid engineering principles, and exploring evolving trends in the **cloud**, **microservices**, and **DevOps**.
+Previously, I worked at **Wipro, Cognizant, and Capgemini**, contributing to enterprise applications, backend integrations, event-driven systems, and automation. My experience covers the software development lifecycle, from requirements analysis and architecture to development, testing, and deployment.
+
+I'm passionate about **scalable system design, distributed systems, clean architecture, production reliability, and engineering best practices**. I enjoy solving practical technical challenges, mentoring engineers, and continuously learning through hands-on experimentation.
 
 ---
 
